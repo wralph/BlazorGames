@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+cdk.context.json
+.vscode 
+
 # User-specific files
 *.rsuser
 *.suo
